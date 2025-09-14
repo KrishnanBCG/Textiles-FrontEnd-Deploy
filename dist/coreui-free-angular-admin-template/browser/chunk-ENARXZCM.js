@@ -1,0 +1,1 @@
+import{y as i}from"./chunk-25OLHFVP.js";import{Rb as r,hb as t}from"./chunk-AONHZWD2.js";import"./chunk-AQY5CCQG.js";var o=class o{};o.\u0275fac=function(e){return new(e||o)},o.\u0275cmp=t({type:o,selectors:[["app-po-root"]],decls:1,vars:0,template:function(e,m){e&1&&r(0,"router-outlet")},dependencies:[i],encapsulation:2});var n=o;export{n as PORootComponent};
