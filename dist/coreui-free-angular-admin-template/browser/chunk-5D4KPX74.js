@@ -1,1 +1,0 @@
-import{x as i}from"./chunk-H4Z643GT.js";import{Ub as r,pb as t}from"./chunk-G573C4CW.js";import"./chunk-AQY5CCQG.js";var e=class e{};e.\u0275fac=function(o){return new(o||e)},e.\u0275cmp=t({type:e,selectors:[["app-root"]],decls:1,vars:0,template:function(o,p){o&1&&r(0,"router-outlet")},dependencies:[i],encapsulation:2});var n=e;export{n as RootComponent};
